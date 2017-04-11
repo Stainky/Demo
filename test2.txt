@@ -1,1 +1,2 @@
 this is a new file to test switch branch function.
+this is a test line to test merge and conflicts.
